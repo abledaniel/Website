@@ -17,4 +17,4 @@ You may also see any lint errors in the console.
 
 The Website Contains
 ### Home Page About Me Projects, Photos, Contact,
-### Skills and a Privacy Policy Page`
+### Skills and a Privacy Policy Page
