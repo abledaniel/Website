@@ -1,0 +1,62 @@
+
+  .project {
+    margin-bottom: 20px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .project2 {
+    display: flex; 
+    justify-content: center;
+  }
+  
+.menu2,
+.menu {
+    max-width: 900px;
+    max-height: 300px;
+    height: auto;
+    border: #333 solid 7px;
+    border-radius: 25px;
+    box-shadow: 10px 5px 100px rgb(255, 255, 255);
+    transition: all 0.3s ease;
+    margin: 2% 20%;
+  }
+  
+.menu2{
+    max-height: 400px;
+}
+.menu2:hover,  
+.menu:hover {
+    transform: scale(1.2);
+  }
+  
+.erased {
+    text-align: center;
+    margin-top: 20px; 
+    font-size: 50px;
+    font-family: Poppins;
+    color: white;
+    transition: all 0.3s ease;
+  }
+  
+  .erased:hover {
+    transform: scale(1.4);
+    color: #333;
+  }
+
+.last-summary,
+.summary {
+    font-family: Poppins;
+    text-align: center;
+    font-size: 17px;
+    word-spacing: 10px;
+    line-height: 250%;
+    color: white;
+    padding:  50px;
+  }
+
+.last-summary{
+    margin-bottom: auto;
+  }
+  

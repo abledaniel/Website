@@ -1,0 +1,35 @@
+.text{
+  font-size: 75px;
+  margin: auto;
+  font-size: 75;
+  color: white;
+  font-family: Poppins;
+  padding-top: 2%;
+}
+
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: url("../../Assets/Fonts/Poppins-SemiBold.ttf");
+  font-weight: 500;
+  font-style: light;
+}
+
+strong{
+  font-family: Poppins-SemiBold;
+  margin:auto;
+
+}
+
+.intro2{
+  color: white;
+  flex-wrap: wrap;
+  font-size: 25px;
+  word-spacing: 20px;
+  line-height: 250%;
+  text-align: center;
+  font-family: Poppins;
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-bottom: 2%;
+
+}
