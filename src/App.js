@@ -15,7 +15,7 @@ return (
   <>
     <div className="container">
       <Routes>
-        <Route path = "/" element={<HomePage/>}/>
+        <Route path = "/Website" element={<HomePage/>}/>
         <Route path = "/about" element={<About/>}/>
         <Route path = "/project" element={<Project/>}/>
         <Route path = "/contact" element={<Contact/>}/>
