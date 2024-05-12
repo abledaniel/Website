@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.7d91219a.css",
+    "main.js": "/Website/static/js/main.94962730.js",
+    "static/js/453.b3efecc2.chunk.js": "/Website/static/js/453.b3efecc2.chunk.js",
+    "static/media/photo5.JPG": "/Website/static/media/photo5.b9a9d7f0b75ee6653051.JPG",
+    "static/media/photo4.JPG": "/Website/static/media/photo4.ec434a8097c5dd4cd7e8.JPG",
+    "static/media/photo1.JPG": "/Website/static/media/photo1.1606adb738f05c48da9c.JPG",
+    "static/media/photo3.JPG": "/Website/static/media/photo3.b6b7de188ccfd6637332.JPG",
+    "static/media/photo2.JPG": "/Website/static/media/photo2.94b1b38baea596798757.JPG",
+    "static/media/happy.png": "/Website/static/media/happy.75b25a9e47b814c070f0.png",
+    "static/media/engaged.png": "/Website/static/media/engaged.514c5be7cc180c7dba23.png",
+    "static/media/research.jpg": "/Website/static/media/research.6780085c9bb89848a2c7.jpg",
+    "static/media/animalcrossing.png": "/Website/static/media/animalcrossing.fd41c148f649a487ef7f.png",
+    "static/media/main_menu.png": "/Website/static/media/main_menu.9e44c95794bf119d210a.png",
+    "static/media/gradient.png": "/Website/static/media/gradient.571a50a1fd999511af87.png",
+    "static/media/Poppins-Regular.ttf": "/Website/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Website/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "index.html": "/Website/index.html",
+    "main.7d91219a.css.map": "/Website/static/css/main.7d91219a.css.map",
+    "main.94962730.js.map": "/Website/static/js/main.94962730.js.map",
+    "453.b3efecc2.chunk.js.map": "/Website/static/js/453.b3efecc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d91219a.css",
+    "static/js/main.94962730.js"
+  ]
+}
