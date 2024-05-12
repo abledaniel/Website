@@ -1,3 +1,5 @@
+
+/* creates the fonts to be used */
 @font-face {
     font-family: "Poppins-SemiBold";
     src: url("../../Assets/Fonts/Poppins-SemiBold.ttf");
@@ -12,6 +14,7 @@
     font-style: light;
   }
 
+/* arranges and positions the block of text */
 .about{
     text-align: center;
     font-size: 25px;
@@ -20,20 +23,21 @@
     margin-top: -3%;
     color: white;
     display: flex;
-    flex-direction: column; /* Arrange elements vertically by default */
+    flex-direction: column; 
     align-items: center;
     padding-left: 50px;
     padding-right: 50px;
     font-family: Poppins-Regular;
 }
 
-
+/* allows the entire page to be responsive */
 .aboutdiv{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
+/* adjusts the hi text */
 .hi{
     text-align: center;
     margin-top: 100px;

@@ -11,6 +11,7 @@ function About() {
   return (
     <div className="about-page">
       <Navbar/>
+      {/* aboutdiv allows the page to be centered and responsive */}
       <div className = "aboutdiv">
       <h4 class="hi">Hi, I'm Abel</h4>
       <h4 class="about">I'm on the board for two clubs, one is ACM which is the leading computer science club on campus. 

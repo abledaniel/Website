@@ -2,8 +2,9 @@ import React from "react";
 import "./skills.css";
 import Navbar from "../../Components/NavBar/navbar";
 import Footer from "../../Components/Footer/footer";
-import Body from "../../Components/Body";
 
+
+// creates an unordered lists of items to showcase all skills and coursework
 function HomePage() {
   return (
     <div className="skills-page">

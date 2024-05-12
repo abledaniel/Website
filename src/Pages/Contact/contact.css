@@ -8,7 +8,8 @@ label {
     display: block;
     text-align: center;
   }
-  
+
+  /* adjusts the position height and width of the email text box and font */
 input[type="email"],
   textarea {
     width: 100%;
@@ -27,7 +28,7 @@ input[type="email"],
     
 
   }
-  
+  /* designs the contant form */
   .container h2 {
     font-family: Poppins;
     padding: 10px;
@@ -50,6 +51,7 @@ input[type="email"],
     padding: 20px;
   }
   
+  /* adjusts color, fonts and positions the button for when it idle and hover */
   .contact-button {
     font-family: Poppins;
     margin: auto;
@@ -86,6 +88,7 @@ input[type="email"],
     font-size: 20px;
   }
 
+  /* centers an error message */
   .error{
     text-align: center;
     font-family: Poppins;

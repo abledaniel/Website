@@ -3,9 +3,6 @@
 import HomePage from "./Pages/HomePage";
 import About from "./Pages/AboutPage/about";
 import Project from "./Pages/ProjectPage/project";
-import Navbar from './Components/NavBar/navbar';
-import Body from "./Components/Body";
-import Footer from "./Components/Footer/footer";
 import Contact from "./Pages/Contact/contact";
 import Skills from "./Pages/Skills/skills"
 import Photos from "./Pages/Photos/photos";
@@ -13,7 +10,7 @@ import Privacy from "./Pages/Privacy/privacy"
 import { Route, Routes } from 'react-router-dom';
 
 function App() {
-
+// creats a Routing Path for a all pages so it reloads whats necessary
 return (
   <>
     <div className="container">

@@ -1,16 +1,12 @@
 * {
   box-sizing: border-box;
 }
-
+/* creates the fonts to be used  */
 @font-face {
   font-family: "Poppins";
   src: url("/src/Assets/Fonts/Poppins-Regular.ttf");
   font-weight: normal;
   font-style: normal;
-}
-
-body {
-  margin: 0;
 }
 
 @font-face {
@@ -19,6 +15,7 @@ body {
   font-weight: 500;
   font-style: light;
 }
+
 .nav {
   /* background-color: #333; */
   /* background-image: linear-gradient(to bottom,  transparent 85%,#ffffff 2%); */
@@ -35,7 +32,7 @@ body {
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
-
+/* adjust the position of the logo when hover */
 .logo{
   font-family: Poppins-SemiBold;
   font-size: 3rem;
@@ -49,6 +46,8 @@ body {
   transition: all 0.3s ease;
 }
 
+
+/* adjusts the text and button since they are unordered lists */
 .nav a{
   color: inherit;
   text-decoration: none;

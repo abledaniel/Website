@@ -14,6 +14,7 @@ function ContactPage() {
     }
   };
 
+  // the function valides the form if the message has symbols for email it send an error if it is just a message then it checks if it not empty
   const validateForm = () => {
     let valid = true;
     const newErrors = {};
@@ -36,7 +37,7 @@ function ContactPage() {
     setFormData({ ...formData, [field]: event.target.value });
   };
   
-
+  // creates the containers and the restrictions for each container with a submit cutton
   return (
     <div className="contact-page">
       <Navbar />

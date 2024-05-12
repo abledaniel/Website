@@ -6,7 +6,7 @@
   font-family: Poppins;
   padding-top: 2%;
 }
-
+/* allows the text to be semi-bold */
 @font-face {
   font-family: "Poppins-SemiBold";
   src: url("../../Assets/Fonts/Poppins-SemiBold.ttf");
@@ -14,6 +14,7 @@
   font-style: light;
 }
 
+/* uses it to create a distinction between texts */
 strong{
   font-family: Poppins-SemiBold;
   margin:auto;

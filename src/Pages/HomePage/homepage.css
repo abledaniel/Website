@@ -1,3 +1,5 @@
+
+#adjusts the font and size of the text
 .name{
     font-size: 150px;
     padding: 25px;
@@ -13,6 +15,7 @@
   color: #333;
 }
 
+/* uses it to position and design the text */
 .intro{
   color: white;
   flex-wrap: wrap;

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom"
 
 export default function Navbar() {
   return <nav className="nav">
-
+{/* creates the links for each pages */}
     <Link to="/" className="logo">Abel Daniel</Link>
     <ul>
       <li>

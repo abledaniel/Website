@@ -8,6 +8,8 @@
     height: auto;
 }
 
+
+/* allows for a responsivness ui */
 .sb_footer {
     display: flex;
     flex-direction: column;
@@ -32,6 +34,7 @@
     
 }
 
+/* adjusts the positions of the buttons */
 a[type="foot"] {
     color: white;
     text-decoration: none;
@@ -44,7 +47,7 @@ a[type="foot"] {
 
 }
 
-
+/* adjusts the texts */
 .sb_footer_links_div p {
     font-family: Poppins;
     font-size: 20px;
@@ -82,22 +85,12 @@ a[type="foot"]:hover {
     text-align: center;
 
   }
-  
+/* creates a hover for both the p and a */
   .sb_footer_copyright p:hover a:hover{
     color: black;
     transition: 0.3s ease;
     transform: scale(1.2);
   }
-
-@media screen and (max-width: 850px) {
-    .sb_footer_links_div {
-        font-size: 35px;
-        line-height: 42px;
-    }
-    .sb_footer_below {
-        font-size: 14px;
-    }
-}
 
 .sb_footer_copyright a:visited {
     color: white;

@@ -1,9 +1,8 @@
+/* creates an intial basic body to allow the background to be seen */
+
 .body{
   min-height: 400px;
-
   height: auto;
-  /* background: #363; */
-  /* background-image: url('/public/images/gradient.png'); */
   background-size: cover; 
   background-repeat: 
 }

@@ -1,6 +1,5 @@
 import React from "react";
 import Footer from "../../Components/Footer/footer";
-import Body from "../../Components/Body";
 import Navbar from "../../Components/NavBar/navbar";
 import Menu from "./main_menu.png"
 import Engaged from "./engaged.png"
@@ -20,6 +19,7 @@ function Project() {
       <img src={Menu} alt="Main_Menu"
        class="menu"/>
        </div>
+       {/* creates the classes and div to divde up the images and text */}
        <h2 class="erased">ERASED LOVE</h2>
        <p class="summary">Erased Love is a RenPy dating simulator with a twist on how you’re entire existence. You wake up alone in a world where you find a girl.
         She’s equally as confused and now both worried start looking around. You and her try to survive while also getting to know each other. 
@@ -37,6 +37,7 @@ function Project() {
       <img src={Research} alt="Research"
        class="menu2"/>
        </div>
+       {/* does the same to showcase another project */}
        <h2 class="erased">LSAMP RESEARCH</h2>
        <p type="sum" class="last-summary">I’m working under Dr. Anand Panangadan during the summer at CSUF and now in LSAMP. The research involved using machine
 learning and natural language processing to detect food-related text on social media platforms to understand the habits of individuals.

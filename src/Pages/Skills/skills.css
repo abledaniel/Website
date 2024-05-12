@@ -1,3 +1,4 @@
+/* creates a responsive page */
 .skill {
     display: flex;
     align-items: center;
@@ -18,13 +19,13 @@
     transition: all .3s ease;
     color: #333;
 }
-  
   .lists {
     display: flex;
     flex-wrap: wrap; 
     justify-content: center;
   }
-  
+
+  /* makes the items act differently when next to each other and formatting */
   .items {
     font-family: Poppins;
     font-size: 25px;

@@ -1,4 +1,4 @@
-
+/* uses it to allow the page to be responsive */
   .project {
     margin-bottom: 20px; 
     display: flex;
@@ -10,7 +10,7 @@
     display: flex; 
     justify-content: center;
   }
-  
+/* uses it to create a distinction between types of images */
 .menu2,
 .menu {
     max-width: 900px;
@@ -30,7 +30,8 @@
 .menu:hover {
     transform: scale(1.2);
   }
-  
+
+/* formate the text and positions */
 .erased {
     text-align: center;
     margin-top: 20px; 
@@ -55,7 +56,7 @@
     color: white;
     padding:  50px;
   }
-
+/* creates a distinction between the first text and the last so the navbar is closer */
 .last-summary{
     margin-bottom: auto;
   }

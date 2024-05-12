@@ -5,7 +5,7 @@ import { Link } from "react-router-dom"
 
 
 const Footer = () => {
-  
+  // creates the links for the button
   return (
     <div className="footer">
       <div className="sb_footer section_padding">
@@ -27,6 +27,7 @@ const Footer = () => {
         </div>
         <div className="sb_footer_below">
           <div className="sb_footer_copyright">
+            {/* creates the text at the bottom */}
             <p>
               @{new Date().getFullYear()} Abel Daniel. All Right Reserved.
             </p>
