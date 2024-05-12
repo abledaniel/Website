@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="sb_footer section_padding">
         <div className="sb_footer_links">
           <div className="sb_footer_links_div">
-            <Link type = "foot" to="/" >
+            <Link type = "foot" to="/Website" >
               <p>HOME</p>
             </Link>
             <Link type = "foot" to="/contact">
