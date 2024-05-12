@@ -1,4 +1,4 @@
-# Abel Webstite
+# Abel Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -16,4 +16,5 @@ You may also see any lint errors in the console.
 
 
 The Website Contains
-### `Home Page About Me Projects, Photos, Contact, Skills and a Privacy Policy Page`
+### Home Page About Me Projects, Photos, Contact,
+### Skills and a Privacy Policy Page
