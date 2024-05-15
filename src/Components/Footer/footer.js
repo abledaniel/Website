@@ -31,9 +31,11 @@ const Footer = () => {
             <p>
               @{new Date().getFullYear()} Abel Daniel. All Right Reserved.
             </p>
+            <p>
             <Link to="/privacy">
               Privacy Policy CLICK ME
             </Link>
+            </p>
           </div>
         </div>
       </div>

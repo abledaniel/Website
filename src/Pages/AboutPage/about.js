@@ -18,7 +18,7 @@ function About() {
       I also do marketing for it, which could be weekly announcements, Instagram posts, photography, or poster designs. 
       Another would be the Video Game Development Club, where I help with events, meetings, and whatever is necessary for the club. 
       I lead 7 Designers made of 2D Artists, UI Artists, Scriptwriters, and Programmers for the game Erased Love.
-      I'm part of LSAMP, where I work doing research with Dr.PP, who is working with entity recognition using a set of keywords to train an algorithm to identify food-related words from Twitter. 
+      I'm part of LSAMP, where I work doing research with Dr.P, who is working with entity recognition using a set of keywords to train an algorithm to identify food-related words from Twitter. 
       I received an LSAMP NSM Award, went to SCCUR a research conference, and was ECS Student Project Innovation Expo Finalist.</h4>
       <img src={Animal} alt="AnimalCrossing"
        class="animalcross"/>
