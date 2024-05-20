@@ -2,6 +2,8 @@ import React from "react";
 import "./skills.css";
 import Navbar from "../../Components/NavBar/navbar";
 import Footer from "../../Components/Footer/footer";
+import Resume from "./Resume-1.png"
+
 
 
 // creates an unordered lists of items to showcase all skills and coursework
@@ -9,6 +11,11 @@ function HomePage() {
   return (
     <div className="skills-page">
       <Navbar/>
+      <h3 class="skills">RESUME</h3>
+      <div className="project">
+      <img src={Resume} alt="Main_Menu"
+       class="menu2" type="resume"/>
+       </div>
       <div className="skill">
       <h3 class="skills">Skills</h3>
       <ui className="lists">

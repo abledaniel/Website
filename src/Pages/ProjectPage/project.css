@@ -26,6 +26,10 @@
 .menu2{
     max-height: 400px;
 }
+
+.menu2[type="resume"]{
+  max-height: 700px;
+}
 .menu2:hover,  
 .menu:hover {
     transform: scale(1.2);

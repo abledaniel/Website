@@ -20,8 +20,8 @@ const Footer = () => {
             <Link type = "foot" to="/about">
               <p>ABOUT ME</p>
             </Link>
-            <Link type = "foot" to="/skills">
-              <p>SKILLS</p>
+            <Link type = "foot" to="/resume">
+              <p>RESUME</p>
             </Link>
           </div>
         </div>

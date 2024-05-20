@@ -5,6 +5,8 @@ import Menu from "./main_menu.png"
 import Engaged from "./engaged.png"
 import Happy from "./happy.png"
 import Research from "./research.jpg"
+import Database from "./Database.png"
+
 
 
 import "./project.css"
@@ -44,6 +46,15 @@ learning and natural language processing to detect food-related text on social m
 The research evaluates and upgrades a system based on its performance on a predetermined data set compared to labeled accurate
 results. This research aims to create a system that will extract the necessary information from a social media site and respond with
 correct, tailored information on reducing food waste and food safety based on what the user posts.</p>
+<div className="project">
+      <img src={Database} alt="Database"
+       class="menu2"/>
+       </div>
+       {/* does the same to showcase another project */}
+       <h2 class="erased">Database Project</h2>
+       <p type="sum" class="last-summary">Used SQL, PHP, HTML and CSS to create a database that would organize Professors
+       Classes, Sections, Student and Grades Recieved to be obtained using search. SQL was used to organzie the initial data and PHP was used when connected to a sever would
+       display the correct information searched.</p>
       <Footer/>
       </div>
   );

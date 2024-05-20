@@ -4,7 +4,7 @@ import HomePage from "./Pages/HomePage";
 import About from "./Pages/AboutPage/about";
 import Project from "./Pages/ProjectPage/project";
 import Contact from "./Pages/Contact/contact";
-import Skills from "./Pages/Skills/skills"
+import Resume from "./Pages/Skills/skills"
 import Photos from "./Pages/Photos/photos";
 import Privacy from "./Pages/Privacy/privacy"
 import { Route, Routes } from 'react-router-dom';
@@ -19,7 +19,7 @@ return (
         <Route path = "/about" element={<About/>}/>
         <Route path = "/project" element={<Project/>}/>
         <Route path = "/contact" element={<Contact/>}/>
-        <Route path = "/skills" element={<Skills/>}/>
+        <Route path = "/resume" element={<Resume/>}/>
         <Route path = "/photos" element={<Photos/>}/>
         <Route path = "/privacy" element={<Privacy/>}/>
       </Routes>
